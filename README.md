@@ -4,7 +4,7 @@ CRM(Customer Relations Management)
 
 It can be CRM analytics, analysis on customers, finding audiences for certain behaviors and organizing campaigns suitable for that audience.
 
-* Managing relations with customers
+* Managing relations with customers.
 * Customer lifecycle optimizations (customer lifecycle/journey/funnel)
 
   1) Visiting the website for the first time
