@@ -1,4 +1,4 @@
-# lCRM-Analytics---RFM-Analysis
+# CRM-Analytics---RFM-Analysis
 
 CRM(Customer Relations Management)
 
